@@ -1,2 +1,2 @@
 # pokemon_analysis
-Personal data science project about Pokémon .
+Personal data science project about Pokémon.
